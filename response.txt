@@ -1,1 +1,0 @@
-What occured in the merge was that the information found on the branch was merged over to master, along with the commitments. 
