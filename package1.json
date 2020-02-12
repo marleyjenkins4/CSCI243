@@ -1,0 +1,22 @@
+{
+  "name": "figlets",
+  "version": "0.0.1",
+  "description": "this app creates cool ascii text",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marleyjenkins4/figlet-ascii-text.git"
+  },
+  "author": "Marley Jenkins",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/marleyjenkins4/figlet-ascii-text/issues"
+  },
+  "homepage": "https://github.com/marleyjenkins4/figlet-ascii-text#readme",
+  "dependencies": {
+    "figlet": "^1.2.4"
+  }
+}
