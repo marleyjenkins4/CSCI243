@@ -22,7 +22,7 @@ const server = http.createServer(function(req,res) {
     });
     res.write('body');
     res.write('{');
-    res.write('background-color:	#000000;');
+    res.write('background-color:	#00000;');
     res.write('color: #808080;');
       res.write('}');
     // completes http response I want
